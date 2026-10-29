@@ -22,7 +22,7 @@
 </ol>
 
 <h4> Table in Html</h4>
-<table boarder = "1">
+<table border = "1">
 <caption> Table of students favoutite subject</caption>
 <tr>
     <th> Students name</th>
