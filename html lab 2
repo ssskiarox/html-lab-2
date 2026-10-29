@@ -1,1 +1,59 @@
+<html>
+ <head>
+    <title> lab 2</title>
+    <body>
+        <h1> List in html</h1>
+        <h2> Unordered list</h2>
+        <p> List of my favourite pizza toppings:</p>
+        <ul style="list-style-type: square">
+  <li>Pepperoni</li>
+  <li>Mushrooms</li>
+  <li>Chicken</li>
+  <li>cheese</li>
+</ul>
+<h3> Ordered List</h3>
+<p> List of countries I want to visit:</p>
+<ol>
+  <li>Japan</li>
+  <li>Korea</li>
+  <li>USA</li>
+  <li>France</li>
+  <li>China</li>
+</ol>
 
+<h4> Table in Html</h4>
+<table boarder = "1">
+<caption> Table of students favoutite subject</caption>
+<tr>
+    <th> Students name</th>
+    <th> Favourite subject</th>
+
+</tr>
+<tr>
+    <td> Sajan Baniya</td>
+    <td> English</td>
+</tr>
+<tr>
+    <td> Bisal Basnet</td>
+    <td> Maths</td>
+
+</tr>
+<tr>
+    <td>Sanajan Aryal</td>
+    <td>Computer</td>
+</tr>
+</table>
+
+<h3> Form in html</h3>
+<form>
+   <u> Full name:</u><input type="text" name="username" placeholder="enter your full name" <br> </br>
+   <u>Email:</u> <input type="email" name ="email" placeholder="email@gmail.com> <br></br>
+   <u> Address:</u> <input type="text" name="address" placeholder="enter your address"> <br></br>
+   <u>Password:</u> <input type="password" name="password" placeholder="enter your password"> <br>
+   <u>gender:</u><input type="radio" name="button" > male <br>
+   <u>gender:</u><input type="radio" name="button">female <br>
+   <u>gender:</u><input type="radio" name="button"> other <br>
+   <button>SUBMIT</button>
+</form>
+    </body>
+ </head>
